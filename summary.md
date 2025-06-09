@@ -8,8 +8,11 @@ Another way to compare languages marked by the author is looking at **historical
 
 The next section of the Chapter titled **„The Development of English”** shows the history of English language. Starting from talking about its beginnings around AD 400, after the Romans left England. In the sub-section about Old English the author highlights that at this stage the language was highly inflectional with case, number, and gender markings showing this at an example of the Old English version of “The Lord’s Prayer.” The next sub-section talks about Middle English illustrating the changes which occurred in the language and showing Middle English vocabulary and grammar with the example of Chaucer’s Canterbury Tales. 
 
-The next section explores the codification and standardization of English during the **Modern English period**, highlighting the publication of major grammar and dictionaries like Samuel Johnson’s 1755 dictionary or Noah Webster’s 1806 dictionary. Attempts to create an “English Academy” similar to the French Academy were unsuccessful, but these efforts signified a growing concern for documenting and prescribing the language.
-There is also a mention of the transition from Middle to Modern English, explaining how vowels were raised in the vowel chart or became diphthongs, and visualizing the process of analyzing vowels to put them in the **vowel chart**. The chapter then examines the impact of colonization, focusing on how the colonization of America and the rise of the United States as a superpower spread English globally, leading to the emergence of many new varieties of English.
+The next section explores the codification and standardization of English during the **Modern English period**, highlighting: 
+* the publication of major grammar and dictionaries like Samuel Johnson’s 1755 dictionary or Noah Webster’s 1806 dictionary,
+* attempts to create an “English Academy” similar to the French Academy were unsuccessful, but these efforts signified a growing concern for documenting and prescribing the language,
+* the transition from Middle to Modern English, explaining how vowels were raised in the vowel chart or became diphthongs, and visualizing the process of analyzing vowels to put them in the **vowel chart**. 
+The chapter then examines the impact of colonization, focusing on how the colonization of America and the rise of the United States as a superpower spread English globally, leading to the emergence of many new varieties of English.
 
 Next, the text discusses **typological language classification**, which groups languages by shared linguistic structures, such as word order, rather than by historical relationships. English is categorized as an SVO language. 
 
