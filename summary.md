@@ -27,3 +27,27 @@ Next, the text discusses **typological language classification**, which groups l
 The author distinguishes between **internal** and **external** influences on language change. According to the author, natural processes, such as simplifications, have led English to evolve from a highly inflected language to a more isolating one. And externally, contact with other languages, especially French, after the Norman Conquest, introduced significant vocabulary and structural changes.
 
 Furthermore, there is a discussion of **language change as a dynamic process**, noting how internal pressures such as regularization and external pressures like social or cultural contact work together to drive changes in English. Examples include the Great Vowel Shift and shifts in word order due to declining case marking.
+
+The examination of language typology is strongly linked to the investigation of language universals.
+Generative linguists usually analyze a limited set of languages to reveal profound, abstract structures,
+influenced by Chomsky’s principles and parameters theory which suggests all human languages have
+universal principles yet varying parameters; in contrast, typologists such as Greenberg adopt a wider,
+cross-linguistic perspective. They analyze extensive collections of languages to uncover patterns and
+trends, referred to as statistical universals. Greenberg's research recognized most important word orders
+such as SOV and SVO as dominant all over the world.
+Additionally, the author explores the topic of language change and if it can be understood as
+synonymous with evolution. Certain linguists argue that "evolution" is simply a metaphor for change,
+whereas others like Croft employ models influenced by biological theories, indicating that language
+evolves through mechanisms like replication, variation, and selection. For example, the reduction in the
+use of "whom" instead of "who" demonstrates how variations can become the new standards and
+ultimately replace older versions.
+Language alteration happens due to internal and external factors: internally, a language might simplify its
+morphology or change its phonology (such as vowel shifts); externally, it can incorporate features from
+other languages through interaction, which is often seen in the significant borrowing of Latin terms into
+English. In more severe cases, such interactions can result in the extinction of languages, especially
+indigenous languages. The spread of English has made these impacts stronger, eliciting worries about
+whether it serves as a global lingua franca or acts as a "killer language."
+In the end, the author points out that changing language is inherent and inevitable. What could be
+considered errors—like saying "flaunt" instead of "flout," or using singular "they"—might represent
+present, extensive changes in language usage and structure, stressing the fluid character of human
+communication.
