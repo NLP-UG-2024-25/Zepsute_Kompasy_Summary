@@ -1,9 +1,11 @@
-# Chapter Summary: The Development and Classification of Languages
+## Chapter Summary: The Development and Classification of Languages
 
+### The current state of the English language
 This section of The Development of English takes readers on a journey through the life of the English language—from its ancient roots to its global presence today. Rather than simply listing facts, the chapter explores how languages grow and transform, much like living organisms shaped by time, contact, and culture. English, once a local tongue spoken only in early medieval England, has evolved into a global language spoken by billions, shaped by migration, conquest, innovation, and everyday use.
 
 The chapter introduces two important ways of looking at language: _synchronic_ (how a language works now) and _diachronic_ (how it has changed over time). English is seen not as a fixed system but as something constantly in motion, influenced both from within (like simplification of grammar) and from outside (like colonization or the blending with other languages through contact). These shifts have led to the rich and varied English we know today—ranging from regional dialects to global Englishes spoken in places far from its original homeland.
 
+### Genetic classifications of languages
 The text also explains how languages are grouped into families, tracing English back through the Germanic branch to the larger Indo-European family. Using tools like the comparative method, scholars piece together ancient connections through shared vocabulary and grammar. The chapter brings this to life with examples—such as how the word “foot” links English to its linguistic cousins, even when the sounds and spellings differ.
 
 Finally, it reflects on the bigger picture: how language mirrors human history and identity. Whether shaped by invasion, printing presses, or everyday conversation, English tells a story not just of words, but of people—of who we were, who we are, and how we communicate across time and space.
@@ -22,9 +24,14 @@ The next section explores the codification and standardization of English during
 * the transition from Middle to Modern English, explaining how vowels were raised in the vowel chart or became diphthongs, and visualizing the process of analyzing vowels to put them in the **vowel chart**. 
 The chapter then examines the impact of colonization, focusing on how the colonization of America and the rise of the United States as a superpower spread English globally, leading to the emergence of many new varieties of English.
 
+### Typological classifications of languages
 Next, the text discusses **typological language classification**, which groups languages by shared linguistic structures, such as word order, rather than by historical relationships. English is categorized as an SVO language. 
 
 The author distinguishes between **internal** and **external** influences on language change. According to the author, natural processes, such as simplifications, have led English to evolve from a highly inflected language to a more isolating one. And externally, contact with other languages, especially French, after the Norman Conquest, introduced significant vocabulary and structural changes.
+
+The picture below lists the six possible word orders that can potentially occur in human language, and the frequency with which they occurred in 402 languages that Tomlin (1986) studied.
+
+<img src="wordorder.png" width="400" height="250"/>
 
 Furthermore, there is a discussion of **language change as a dynamic process**, noting how internal pressures such as regularization and external pressures like social or cultural contact work together to drive changes in English. Examples include the Great Vowel Shift and shifts in word order due to declining case marking.
 
